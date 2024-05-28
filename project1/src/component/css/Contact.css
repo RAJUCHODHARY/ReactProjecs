@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+.contacs{
+    justify-content: space-around;
+    align-items: center;
+}
+.contacsparent{
+    padding-top: 20px;
+   
+}
+.navlink{
+    padding:  10px;
+    margin-left: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgba(112, 90, 235, 0.788);
+    border-radius: 10px;
+
+}
+
+.navlink:hover{
+    background-color: black;
+    color: white;
+}
+.active{
+    background-color: #fc54ab;
+}

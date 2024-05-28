@@ -1,0 +1,28 @@
+body{
+    background-color: aquamarine;
+}
+.other{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-top: 20px;
+}
+.other input{
+    width: 320px;
+    padding: 5px;
+    font-size: 20px;
+    border-radius: 10px;
+}
+button{
+    width: 200px;
+    padding: 5px;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    background-color: rgb(60, 60, 203);
+    color: white;
+    cursor: pointer;
+}

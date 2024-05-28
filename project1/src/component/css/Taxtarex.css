@@ -1,0 +1,27 @@
+.taxtbox{
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.taxtparent{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    align-items: center;
+    flex-direction: column;
+}
+textarea{
+margin-top:20px ;
+}
+textarea::placeholder{
+    padding: 10px;
+}
+.btn{width: 160px;
+    margin: 5px;
+    padding: 3px 0;
+    border-radius: 20px;
+    font-size: 18px;
+}

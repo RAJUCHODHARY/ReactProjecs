@@ -1,0 +1,16 @@
+
+.arrayrev {
+
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    margin: auto;
+    margin-top: 20px;
+}
+.arrayrev button{
+    font-size: 18px;
+    margin: 5px;
+    width: 150px;
+}

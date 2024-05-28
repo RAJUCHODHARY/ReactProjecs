@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h2{
+    margin-top: 20px;
+    text-align: center;
+    color: rgb(236, 11, 11);
+}
+.box{
+    margin-top: 20px;
+    width: 730px;
+    height: 270px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: palevioletred;
+}
+.count{
+    text-align: center;
+    margin: 10px 0;
+    padding-top: 10px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.box button{
+    
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-size: 30px;
+    margin: 20px;
+    background-color: green;
+}
